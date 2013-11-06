@@ -1,1 +1,2 @@
-To-do: Find ou the viabble moons for estabilishing a moon base around mars.
+To-do: Find out the viable moons for establishing a moon base around mars.
+Changed within Bugfixes branch.
